@@ -21,7 +21,7 @@ a {
     text-decoration: none;
 }
 
-image {
+img {
     display: block;
     max-width: 100%;
 }
@@ -99,6 +99,7 @@ image {
 /*Sobre*/
 .sobre {
     border-top: 2px solid #2c70ff;
+    border-bottom: 2px solid #2c70ff;
     max-width: 60rem;
     margin: 0 auto;
     padding: 3.75rem 0;
@@ -128,5 +129,43 @@ image {
     margin: 0 0.625rem;
 }
 
+/*Produtos*/
+.produtos {
+    max-width: 960px;
+    margin: 60px auto;
+}
 
+.produtos h1 {
+    font-size: 3em;
+    margin: 0 0.625rem 3.75rem 0.625rem;
+}
 
+.produtos-container {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: flex-end;
+}
+
+.produtos-item {
+	flex: 1 1 11rem;
+	margin: 0.625rem;
+}
+
+.produtos-item h2 {
+    font-size: 3em;
+    color: #a4a4a4;
+    background: #f7f7f7;
+    padding: 3.75rem 1.25rem;
+}
+
+.purple {
+    border-top: 0.5rem solid #ae81ff;
+}
+
+.pink {
+    border-top: 0.5rem solid #f9265e;
+}
+
+.blue {
+    border-top: 0.5rem solid #66d9eb;
+}
