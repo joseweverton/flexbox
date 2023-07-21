@@ -4,4 +4,4 @@
 
 <p>Ao explorar este projeto, você encontrará diferentes cenários em que o Flexbox é aplicado para criar layouts fluidos e adaptáveis.</p>
 
-<p><b>Observação:</b> Este projeto tem fins educacionais e tem como objetivo mostrar minhas habilidades no uso do Flexbox para posicionamento de layouts.</p>
+<p><b>Observação:</b> Este projeto tem como objetivo mostrar minhas habilidades no uso do Flexbox para posicionamento de layouts.</p>
